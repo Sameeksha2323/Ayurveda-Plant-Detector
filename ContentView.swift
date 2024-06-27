@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  FlowerID
-//
-//  Created by Nabeel on 08/04/23.
-//
+
 
 import SwiftUI
 import UIKit
